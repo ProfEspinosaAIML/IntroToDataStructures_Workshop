@@ -1,0 +1,39 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+
+# ---- Virtual Environments ----
+.venv/
+env/
+venv/
+ENV/
+*.env
+*.venv
+
+# ---- Jupyter Notebook ----
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ---- VS Code ----
+.vscode/
+.history/
+
+# ---- OS-specific ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs & temp ----
+*.log
+*.tmp
+*.swp
+
+# ---- Data (optional, keep if you want datasets in repo) ----
+# Uncomment to ignore all CSV data files
+# *.csv
