@@ -38,5 +38,17 @@ Thumbs.db
 # Uncomment to ignore all CSV data files
 # *.csv
 
-# ---- Don't allow students to download the workshop setup ----
+# Ignore instructor-only documentation
+documentation/
+
+# Ignore instructor-only scripts
+utils/
+
+# Ignore instructor-only config file
+config.json
+
+# Ignore instructor-only source notebook
+IntroToDataStructures_Workshop.ipynb
+
+# Ignore setup instructions for instructors
 SETUP.md
