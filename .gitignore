@@ -37,3 +37,6 @@ Thumbs.db
 # ---- Data (optional, keep if you want datasets in repo) ----
 # Uncomment to ignore all CSV data files
 # *.csv
+
+# ---- Don't allow students to download the workshop setup ----
+SETUP.md
